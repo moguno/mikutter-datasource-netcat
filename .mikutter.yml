@@ -3,7 +3,7 @@ slug: :mikutter-datasource-netcat
 depends:
   mikutter: 3.2.0
   plugin: []
-version: '0.0.1'
+version: '0.0.2'
 author: 
 name: mikutter-datasource-netcat
-description: TCP:39390テキストをメッセージとして表示します。
+description: TCP:39390あに送信したテキストをメッセージとして表示します。
